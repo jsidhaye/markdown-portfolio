@@ -1,2 +1,2 @@
-* *project management*
-* **data analysis**
+Such a bullshit assignemnt *project management* this is. 
+I totally hate it **data analysis**
