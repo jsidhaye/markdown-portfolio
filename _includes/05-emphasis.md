@@ -1,2 +1,2 @@
-*project management*
-**data analysis**
+* *project management*
+* **data analysis**
