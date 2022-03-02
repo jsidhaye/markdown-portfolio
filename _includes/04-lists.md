@@ -1,4 +1,3 @@
-# Hotels
 
 * Krazykitchen
 * Vapiano
